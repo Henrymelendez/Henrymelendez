@@ -30,7 +30,7 @@ as well as mentored data science student for lambda school
 
 # Langauges and Tools
 <ins></ins>
-
+Python, Java, Scala
 ## Exploratory Data Analysis:
 Python, Pandas, NumPy
 ## Visualization Insights: 
@@ -38,7 +38,7 @@ Plotly, Matplotlib, Seaborn
 ## Machine Learning:
 Scikit-Learn, AWS, Keras, TensorFlow
 ## Development:
-AWS Lambda, AWS S3, Docker, AWS Redshift, AWS EC2, Spark, Airflow
+AWS Lambda, AWS S3, Docker, AWS Redshift, Spark, Airflow, Hadoop
 ## Database:
 SQL, PostgresSQL, MySQL, SQLite, Apcache Cassandra
 
