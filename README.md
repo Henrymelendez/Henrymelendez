@@ -34,11 +34,11 @@ Python, Java, Scala
 ## Exploratory Data Analysis:
 Python, Pandas, NumPy
 ## Visualization Insights: 
-Plotly, Matplotlib, Seaborn
+Plotly, Matplotlib, Seaborn, Power BI
 ## Machine Learning:
-Scikit-Learn, AWS, Keras, TensorFlow
+Scikit-Learn, Keras, TensorFlow
 ## Development:
-AWS Lambda, AWS S3, Docker, AWS Redshift, Spark, Airflow, Hadoop
+AWS S3, AWS Redshift, Spark, Airflow, Hadoop
 ## Database:
 SQL, PostgresSQL, MySQL, SQLite, Apcache Cassandra
 
