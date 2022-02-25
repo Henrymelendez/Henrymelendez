@@ -35,12 +35,11 @@ Java, Python, Scala
 Python, Pandas, NumPy
 ## Visualization Insights: 
 Plotly, Matplotlib, Seaborn, Power BI
-## Machine Learning:
-Scikit-Learn, Keras, TensorFlow
+
 ## Development:
-AWS S3, AWS Redshift, Spark, Airflow, Hadoop
+AWS S3, AWS Redshift, Airflow,
 ## Database:
-SQL, PostgresSQL, MySQL, SQLite, Apcache Cassandra
+SQL, PostgresSQL, MySQL, SQLite,
 
 <ins></ins>
 
