@@ -23,14 +23,14 @@ at Buyer Edge Platform
 <ins></ins>
 
 Previously Worked as finance, accounting, and data analytics
-as well as mentored data science student for lambda school
+as well as a current student at skill distillery.
 
-👯 I’m looking to to contribute to projects as a data engineer
+👯 I’m looking to to contribute to projects as a java developer
 
 
 # Langauges and Tools
 <ins></ins>
-Python, Java, Scala
+Java, Python, Scala
 ## Exploratory Data Analysis:
 Python, Pandas, NumPy
 ## Visualization Insights: 
