@@ -25,7 +25,7 @@ at Buyer Edge Platform
 Previously Worked as finance, accounting, and data analytics
 as well as a current student at skill distillery.
 
-👯 I’m looking to to contribute to projects as a java developer
+I’m looking to to contribute to projects as a java developer
 
 
 # Langauges and Tools
