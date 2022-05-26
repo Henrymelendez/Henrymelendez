@@ -30,9 +30,9 @@ I’m looking to to contribute to projects as a java developer
 
 # Langauges and Tools
 <ins></ins>
-Java, Python, Scala
-## Exploratory Data Analysis:
-Python, Pandas, NumPy
+Java, Python
+## Frame Works:
+Spring Boot, Spring MVC, J2EE, JSP, JPA, Angular
 ## Visualization Insights: 
 Plotly, Matplotlib, Seaborn, Power BI
 
