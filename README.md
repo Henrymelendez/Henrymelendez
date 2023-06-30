@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 # Henry Melendez
 
-Hi, I'm Henry- working in Data Engineering
-at Buyer Edge Platform 
+Hi, I'm Henry- working in Software Engineer
+at Amazon Web Services
 
 <ins></ins>
 
 Previously Worked as finance, accounting, and data analytics
-as well as a current student at skill distillery.
+as well as a former student at skill distillery, and current WGU Computer Science 
+student
 
 I’m looking to to contribute to projects as a java developer
 
@@ -35,7 +36,9 @@ I’m looking to to contribute to projects as a java developer
 <ins></ins>
 Java, Python
 ## Frame Works:
-Spring Boot, Spring MVC, J2EE, JSP, JPA, Angular
+Spring Boot, Spring MVC, Spring Cloud, Docker, Zipkin, Angular,
+Resilience4j, Open Fiegn, Spring Bus, Spring Config, Spring Gateway,
+Eureka
 ## Visualization Insights: 
 Plotly, Matplotlib, Seaborn, Power BI
 
