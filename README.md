@@ -30,7 +30,7 @@ I’m looking to to contribute to projects as a java developer
 
 # My Portfolio
 [Portfolio](http://52.45.104.177)
-
+(Currently Down For Rework)
 
 # Langauges and Tools
 <ins></ins>
