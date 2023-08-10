@@ -7,7 +7,7 @@
 </p>
 - 📫 How to reach me :  <a href="henryomarm@gmail.com">henryomarm@gmail.com </a>
 
-<h3><a href="http://52/45/104/177">My Portfolio</a></h3>
+<h3><a href="http://52.45.104.177">My Portfolio</a></h3>
 
 
 
